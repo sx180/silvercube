@@ -3,6 +3,7 @@
 ## Essential
 - [ ] Optifine
 - [ ] FPS Boost (if possible)
+- [ ] Custom fonts
 
 
 ## Mods
