@@ -4,7 +4,7 @@
 - [ ] Optifine
 - [ ] FPS Boost (if possible)
 - [ ] Custom fonts
-
+- [ ] Plugin stats connecter au launcher
 
 ## Mods
 - [ ] F3 Custom
