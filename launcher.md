@@ -2,10 +2,12 @@
 
 ## Essential
 - [ ] Optifine ou Sodium + Iris
-- [ ] FPS Boost (if possible)
+- [ ] FPS Boost
 - [ ] Custom fonts
 - [ ] Plugin stats connecter au launcher
 - [ ] Logo du launcher dans le tab et le nametag
+- [ ] Interface custom
+- [ ] In game account changer
 
 ## Mods
 - [ ] F3 Custom
