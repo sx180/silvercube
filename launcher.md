@@ -1,7 +1,7 @@
 # Launcher
 
 ## Essential
-- [ ] Optifine
+- [ ] Optifine ou Sodium + Iris
 - [ ] FPS Boost (if possible)
 - [ ] Custom fonts
 - [ ] Plugin stats connecter au launcher
