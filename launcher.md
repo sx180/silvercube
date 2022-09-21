@@ -5,6 +5,7 @@
 - [ ] FPS Boost (if possible)
 - [ ] Custom fonts
 - [ ] Plugin stats connecter au launcher
+- [ ] Logo du launcher dans le tab et le nametag
 
 ## Mods
 - [ ] F3 Custom
