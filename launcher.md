@@ -1,11 +1,10 @@
 # Launcher
 
 ## Essential
-- [ ] Optifine ou Sodium + Iris
+- [ ] Optifine
 - [ ] FPS Boost
 - [ ] Custom fonts
-- [ ] Plugin stats connecter au launcher
-- [ ] Logo du launcher dans le tab et le nametag
+- [ ] Launcher logo in tab + chat
 - [ ] Interface custom
 - [ ] In game account changer
 
@@ -21,3 +20,6 @@
 - [ ] Freelook
 - [ ] Chunk Borders
 - [ ] Fullbright
+- [ ] Background menu blur
+- [ ] Motion blur
+- [ ] Time changer
